@@ -1,0 +1,2 @@
+python contribute.py --max_commits=10 --frequency=50 --repository=git@github.com:Richard1899/WebGL.git
+python contribute.py --max_commits=10 --frequency=70 --repository=git@github.com:SuperSmile0426/CMC-Management.git
